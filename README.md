@@ -92,7 +92,7 @@ $ python3 opencv_co_ordinates.py
 ```
 Add the co-oridnates into tiny-main file to define the range.
 
-## Main file exucution with output from jetson nano
+## Main file execution with output from jetson nano
 ```bash
 python3 tiny-main.py
 ```
